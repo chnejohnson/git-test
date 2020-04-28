@@ -6,3 +6,4 @@ fetch --all只會將資源拉下來，不會merge，所以本地端資源不改�
 需使用git merge origin/develop or git reset --hard origin/develop
 
 ### rebase vs rebase -i
+rebase -i 是用來rebase過去的commit；rebase 則是更換新的基準branch。
