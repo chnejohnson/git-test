@@ -1,2 +1,2 @@
 console.log("develop");
-console.log("issue/1");
+console.log("issue/2");
